@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoedeLocatie</string>
+    <string name="title_activity_huidige_locatie">Map</string>
+</resources>
